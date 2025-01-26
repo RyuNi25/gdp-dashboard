@@ -17,3 +17,6 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+git add requirements.txt
+git commit -m "Add matplotlib and other dependencies"
+git push origin main
