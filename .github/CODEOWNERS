@@ -1,4 +1,2 @@
 * @streamlit/community-cloud
-git add requirements.txt
-git commit -m "Add matplotlib and other dependencies"
-git push origin main
+
