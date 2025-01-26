@@ -85,3 +85,4 @@ st.write("The RFM analysis identifies users' behavioral patterns, helping target
 
 st.write("---")
 st.write("### Thank you for exploring the Bike Usage Analysis Dashboard! Feel free to reach out for any additional insights.")
+st.markdown("<p style='text-align:center; font-size:20px;'>by: Resti Ayu</p>", unsafe_allow_html=True)
